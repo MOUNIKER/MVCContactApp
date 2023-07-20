@@ -1,0 +1,57 @@
+[
+    {
+        "firstname": "Manda",
+        "lastname": "Mahesh",
+        "image": "Mahesh"
+    },
+    {
+        "firstname": "Shaik",
+        "lastname": "Mujafar",
+        "image": "Mujafar"
+    },
+    {
+        "firstname": "Gali",
+        "lastname": "Balakrishna",
+        "image": "Balakrishna"
+    },
+    {
+        "firstname": "Shaik",
+        "lastname": "Jasmin",
+         "image": "Jasmin"
+    },
+    {
+        "firstname": "Mohammed",
+        "lastname": "Sumaiya",
+        "image": "Sumaiya"
+    },
+    {
+        "firstname": "Poorna",
+        "lastname": "sindhu",
+        "image": "Sindhu"
+    },
+    {
+        "firstname": "Vanukuri",
+        "lastname": "Mouniker",
+        "image": "Mouniker"
+    },
+    {
+        "firstname": "koneti",
+        "lastname": "Mahith",
+        "image": "mahith"
+    },
+    {
+        "firstname": "Jangam",
+        "lastname": "Nitish",
+        "image": "Nitish"
+    },
+    {
+        "firstname": "katam",
+        "lastname": "Manoj",
+        "image": "Nitish"
+    },
+    {
+        "firstname": "Syed",
+        "lastname": "Nazmaraza",
+        "image": "nazmaraza"
+    }
+]
